@@ -16,4 +16,11 @@ window.alert("je suis la");
 >>>>>>> origin/maud
 }
 
+## Bonjour Mohamed
+
+*Voici du code*
+
+```javascript
+window.alert("Bonjour");
+>>>>>>> origin/mohamed
 ```
